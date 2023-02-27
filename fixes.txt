@@ -1,0 +1,13 @@
++ LIKE adicionado no BD --- Model/ClienteDAO.py - Nome e CPF (Funcionando 100% na tela de aluguel e lista de clientes)
+
++ Imagens e icones de janela adicionados na tela de confirmação de cadastro, exclusão e alteração de dados. (todas)
+
++ Placeholders adicionados na tela de aluguel, Cadastro de cliente, Cadastro de veículos e Alugueis.
+
+* Mudança do termo "batido" > agora se chama "condição"
+
++ Adicioado condição "Boa" e "Ruim"
+
++ LIKE AnoModelo adicionado a VeiculosDAO
+
++ Agora a barra de pesquisa da janela de lista de clientes e veículos responde a Nome, CPF, Modelo, Marca e Ano do veículo.
